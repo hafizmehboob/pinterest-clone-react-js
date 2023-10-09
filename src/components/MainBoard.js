@@ -29,7 +29,7 @@ const Wrapper = styled.div`
 
 const Container = styled.div`
    width: 80%;
-   column-count: 5;
+   column-count: 4;
    column-gap: 0;
    background-color: #fff;
 `
