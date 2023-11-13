@@ -7,10 +7,10 @@ function Pin(props) {
    return (
       <Wrapper>
          <Container>
-            <div>
+          {/* <div>
                <SavePinsData/>
                <Button variant="save">Save</Button>
-            </div>
+            </div> */}
             <img src={urls?.regular} alt="Pins" />
          </Container>
       </Wrapper>
